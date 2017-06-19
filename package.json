@@ -2,11 +2,12 @@
     "name": "phplt",
     "displayName": "PHP Lightweight Toolbox",
     "description": "A set of lightweight tools for php",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "publisher": "caonUlisses",
     "engines": {
         "vscode": "^1.13.0"
     },
+    "icon": "php.svg",
     "categories": [
         "Extension Packs"
     ],
