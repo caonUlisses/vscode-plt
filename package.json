@@ -1,0 +1,24 @@
+{
+    "name": "phplt",
+    "displayName": "PHP Lightweight Toolbox",
+    "description": "A set of lightweight tools for php",
+    "version": "0.0.1",
+    "publisher": "caonUlisses",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionDependencies": [
+        "HvyIndustries.crane",
+        "Shan.code-settings-sync",
+        "bmewburn.vscode-intelephense-client",
+        "christian-kohler.path-intellisense",
+        "cxfksword.goto-documentation",
+        "linyang95.php-symbols",
+        "neilbrayfield.php-docblocker",
+        "patbenatar.advanced-new-file",
+        "yahya-gilany.vscode-pomodoro"
+    ]
+}
